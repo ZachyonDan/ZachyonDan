@@ -2,7 +2,7 @@
 
 ## About Me
 Aspiring Rust programmer aiming to deliver useful, functional projects. My goal is to become a video game programmer.
-* Most understood language (currently): **Rust**
+* Most understood language (currently): 🦀 **Rust** 🦀
 * Language spent on the most: **Lua**
 * Languages learning: **Rust**, **Go**
 
