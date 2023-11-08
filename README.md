@@ -2,10 +2,15 @@
 
 ## About Me
 Aspiring Rust programmer aiming to deliver useful, functional projects. My goal is to become a video game programmer.
-* Most used language: 🦀 Rust 🦀
-* "Learned" languages: 🌕 Lua, 🐍 Python
-* Language w/ most experience: 🌕 Lua
-* Currently learning: 🦀 Rust, 🐹 Go
+### Programming
+- **Most used language:** 🦀 Rust 🦀
+- **"Learned" languages:** 🌕 Lua, 🐍 Python
+- **Language w/ most experience:** 🌕 Lua
+- **Currently learning:** 🦀 Rust, 🐹 Go
+### Personal
+- 🎂 **Age:** 17 
+- 💼 **Occupation:** High school student 👩‍🎓
+- 🖥️ **Operating System:** Linux 🐧
 
 <!--
 **ZachyonDan/ZachyonDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
