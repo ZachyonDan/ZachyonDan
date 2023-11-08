@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, my name's Zach
+
+## About Me
+Aspiring Rust programmer aiming to deliver useful, functional projects. My goal is to become a video game programmer.
 
 <!--
 **ZachyonDan/ZachyonDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
