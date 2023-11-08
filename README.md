@@ -9,7 +9,7 @@ Aspiring Rust programmer aiming to deliver useful, functional projects. My goal 
 - **Currently learning:** 🦀 Rust, 🐹 Go
 ### Personal
 - 🎂 **Age:** 17 
-- 💼 **Occupation:** High school student 👩‍🎓
+- 💼 **Occupation:** High school student 🧑‍🎓
 - 🖥️ **Operating System:** Linux 🐧
 
 <!--
