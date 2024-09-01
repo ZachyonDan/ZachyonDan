@@ -3,9 +3,8 @@
 ## About Me
 Aspiring Rust programmer aiming to deliver useful, functional projects. My goal is to become a backend developer.
 ### Programming
-- 🌐 **Most used language:** 🦀 Rust 🦀
-- 📚 **"Learned" languages:** 🌕 Lua, 🐍 Python
 - 🔍 **Language I've used the most:** 🦀 Rust
+- 📚 **"Learned" languages:** 🌕 Lua, 🐍 Python
 - 📖 **Currently learning:** 🦀 Rust, 🐹 Go
 ### Personal
 - 🎂 **Age:** 17
