@@ -7,7 +7,7 @@ Aspiring Rust programmer aiming to deliver useful, functional projects. My goal 
 - 📚 **"Learned" languages:** 🌕 Lua, 🐍 Python
 - 📖 **Currently learning:** 🦀 Rust, 🐹 Go
 ### Personal
-- 🎂 **Age:** 17
+- 🎂 **Age:** 18
 - 💼 **Occupation:** High school student 🧑‍🎓
 - 🖥️ **Operating System:** Linux (Arch) 🐧
 
